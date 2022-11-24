@@ -1,0 +1,14 @@
+.vscode
+src/venv
+imdbdatabase/*
+tweets/*
+__pycache__
+elk/elasticsearch/data
+elk/elasticsearch/logs
+elk/output/data/*
+elk/output/logs/*
+terraform/.terraform/*
+terraform/*.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+.env
